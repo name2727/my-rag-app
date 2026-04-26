@@ -1,5 +1,6 @@
-streamlit
-sentence-transformers
-chromadb
-requests
-jieba
+streamlit==1.28.1
+sentence-transformers==2.2.2
+chromadb==0.4.22
+requests==2.31.0
+jieba==0.42.1
+protobuf==3.20.3
